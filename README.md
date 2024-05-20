@@ -1,8 +1,8 @@
 # Exercícios de AP1 de POO ULBRA, 2024/1-2T
 Resolução de exercícios da disciplina de POO, na ULBRA.
-O programa é executável pelo arquivo Main.java, que inicia exibição de terminal das opções, sendo cada uma delas os 7 exercícios exigidos. Escrevi toda a interface e variáveis em inglês para praticar o idioma. Criei a classe GeneralUtilities para criar o método de checagem de strings serem ou não numéricas (isNumeric).
+O programa é executável pelo arquivo Main.java, que inicia exibição de terminal das opções, sendo cada uma delas os 7 exercícios exigidos. Escrevi toda a interface e variáveis em inglês para praticar o idioma. Criei a classe GeneralUtilities para criar o método de checagem de strings serem ou não numéricas (isNumeric). Não implementei questões dos exercícios com JFrame numa única janela, pois iria demorar demais para aprender como fazer isso e a atividade não exigia.
 
-Não implementei questões dos exercícios com JFrame numa única janela, pois iria demorar demais para aprender como fazer isso e a atividade não exigia.
+ATENÇÃO: O código também pode ser executado no Replit [neste link](https://replit.com/@GeovaniLopesLop/ULBRAPOOAP1exercicios#Main.java).
 
 ## Exercício 1:
 Cumprida pela classe DiscountCalculation, atribuí propriedades para lidar com os inputs do usuário. Modularizei-a assim:
@@ -47,6 +47,3 @@ Cumprida pela classe LoginSystem, coloquei as chaves de acesso como atributos fi
 Cumprida pela classe MultiplicationTable, modularizada simnplificadaemente em dois métodos:
 - inputValue: simula interface de input do valor.
 - exhibitTable: simula output da tabuada do valor.
-
-
-O código também pode ser executado no Replit [neste link](https://replit.com/@GeovaniLopesLop/ULBRAPOOAP1exercicios#Main.java).
